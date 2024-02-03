@@ -1,0 +1,2 @@
+Este es el archivo que vamos a usar como prueba para los comandos de borrar, así mismo esta es la 
+creación de este archivo texto3.texto3
