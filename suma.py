@@ -7,5 +7,5 @@ suma = lambda x, y: x + y
 
 #Correjimos el eror al cambiar suma y lista de orden, map primero toma la función.
 lista_f = list(map(suma,lista_2, lista))
-print("\n El resultado de las sumas es: ")
+print("\n La solución de la suma es: ")
 print(lista_f, "\n")
