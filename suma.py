@@ -1,4 +1,4 @@
-#Este programa suma dos numeros: 
+ #Este programa suma dos numeros: 
 print("\n Este programa suma las 2 listas: \n")
 
 lista = [1,2,3,4,5,6,7,8,9,10]
